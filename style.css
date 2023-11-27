@@ -1,0 +1,80 @@
+.container{
+    display: flex;
+}
+nav{
+    background-color: palevioletred;
+    width: 200px;
+    height:800px;
+}
+.header{
+    background-color: aqua;
+    width: 900px;
+    height: 100px;
+    margin-top: -21.5px;
+}
+.article{
+    background-color: maroon;
+    width: 600px;
+    height: 600px;
+}
+#isian{
+    display: flex;
+}
+.aside{
+    background-color: tomato;
+    width: 300px;
+    height: 600px;
+}
+.footer{
+    background-color: aquamarine;
+    width: 900px;
+    height: 100px;
+    margin-top: -21.5px;
+}
+.warna{
+    background-color: pink;
+    padding: 5px 5px 5px 5px;
+    text-align: center;
+}
+.pala{
+    width: 1000px;
+    height: 80px;
+    background-color: lightblue;
+    margin: 0px 15px 20px 10px;
+    padding: 0px;
+    border-radius: 1000px;
+}
+.posisi{
+    display: flex;
+}
+.side{
+    background-color: lightseagreen;
+    width: 350px;
+    height: 500px;
+    margin: 0px 0px 0px 10px;
+    border-radius: 30px;
+}
+.arti{
+    background-color: lightcoral;
+    width: 635px;
+    height: 500px;
+    margin: 0px 0px 0px 15px;
+    flex-direction: center;
+    border-radius: 30px;
+}
+.kaki{
+   
+    width: 1000px;
+    height: 80px;
+    background-color: lightblue;
+    margin: 0px 15px 15px 10px;
+    padding: 0px;
+    border-radius: 1000px;
+}
+img{
+    width: 190px;
+    height: 190px;
+    padding: 5px;
+    margin: 200px 3px 5px 5px;
+    align-items: flex-end;
+}
